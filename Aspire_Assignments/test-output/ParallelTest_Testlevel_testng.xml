@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="2" >
+  <test name="Test">
+    <classes>
+      <class name="Day2_Day3_Handson.ParallelTest_Methodlevel"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test1">
+    <classes>
+      <class name="Day2_Day3_Handson.TestNGdependsOnMethods"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->

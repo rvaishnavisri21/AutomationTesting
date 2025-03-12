@@ -1,0 +1,5 @@
+2025-02-27 22:02:29 [main] INFO  day8_handson.Log4jClass - Leafground dashboard titleDashboard
+2025-02-27 22:02:31 [main] INFO  day8_handson.Log4jClass - Passing email
+2025-02-27 22:02:32 [main] INFO  day8_handson.Log4jClass - Passing message
+2025-02-27 22:02:34 [main] INFO  day8_handson.Log4jClass - Clicking Send
+2025-02-27 22:02:35 [main] DEBUG day8_handson.Log4jClass - Email and Message Sent
