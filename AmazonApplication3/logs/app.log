@@ -1,0 +1,330 @@
+2025-02-27 22:32:51 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-02-27 22:35:07 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-02-27 22:37:33 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-02-27 22:46:22 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-02-27 22:46:50 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-02-27 22:47:05 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-02-27 22:47:10 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-02-27 22:47:48 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-02-27 22:54:25 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-02-27 22:54:32 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-02-27 22:55:53 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-02-27 22:56:00 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-02-27 22:56:55 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-02-28 12:07:25 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-02-28 12:14:00 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-02-28 12:14:06 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-02-28 12:16:53 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-02-28 12:17:11 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-02-28 12:17:56 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-02-28 12:52:57 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-02-28 12:53:23 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-02-28 12:54:05 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-02-28 12:55:02 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-02-28 12:56:28 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-02-28 12:59:29 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-02-28 13:02:25 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-02-28 13:02:56 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-02-28 13:03:27 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-02-28 13:06:36 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-02-28 13:06:43 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-02-28 13:09:15 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-02-28 13:22:30 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-02-28 13:29:05 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-02-28 13:31:59 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-02-28 13:45:14 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-02-28 13:48:06 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-02-28 13:49:42 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-02-28 13:49:48 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-02-28 13:50:28 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-02-28 13:53:31 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-02-28 13:54:08 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-02-28 13:55:17 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-02-28 13:56:52 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-02-28 13:59:09 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-02-28 14:17:20 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-02 15:35:59 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-02 15:40:32 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-02 15:40:37 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-02 15:42:36 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-02 15:42:42 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-02 15:43:06 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-02 16:12:52 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-02 16:13:27 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-02 16:17:22 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-02 16:18:24 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-02 16:19:19 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-02 16:28:49 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-02 16:28:55 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-02 16:30:17 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-02 16:30:25 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-02 16:30:53 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-02 17:01:10 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-02 17:01:15 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-02 17:03:14 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-02 17:04:01 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-02 17:04:05 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-02 17:06:36 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-02 17:06:43 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-02 17:07:17 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-02 18:07:53 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-02 18:08:00 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-02 18:09:49 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-02 18:09:56 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-02 18:10:31 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-02 18:20:55 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-02 18:21:00 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-02 18:21:58 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-02 18:22:08 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-02 18:22:40 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-02 18:33:38 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-02 18:33:43 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-02 18:34:08 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-02 18:34:13 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-02 18:34:21 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-02 18:35:15 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-02 18:35:18 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-02 18:35:33 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-02 18:35:47 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-02 18:36:24 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-02 18:39:05 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-02 18:39:12 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-02 18:39:45 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-02 18:39:51 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-02 18:40:19 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-02 18:45:59 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-02 18:46:03 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-02 18:46:48 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-02 18:46:54 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-02 18:47:23 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-07 21:38:08 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-07 21:38:11 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-07 21:38:26 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-07 21:38:32 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-07 21:39:07 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-07 21:50:38 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-07 22:02:52 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-07 22:02:56 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-07 22:03:53 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-07 22:04:02 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-07 22:04:36 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-07 22:05:07 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-07 22:05:07 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-07 22:05:07 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+2025-03-07 22:05:07 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+2025-03-10 13:36:17 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-10 13:36:23 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 13:37:51 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-10 13:37:58 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-10 13:38:29 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-10 13:39:01 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-10 13:39:01 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-03-10 13:39:01 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+2025-03-10 13:39:01 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+2025-03-10 13:51:05 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-10 13:51:09 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 13:52:25 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-10 13:52:34 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-10 13:53:14 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-10 14:06:59 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-10 14:07:04 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 14:08:19 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-10 14:08:31 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-10 14:09:03 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-10 14:09:28 [main] INFO  com.amazonapplication.testCases.DatadrivenTest - Amazon Registeration tried for 5 invalid users
+2025-03-10 15:00:49 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-10 15:00:53 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 15:02:54 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-10 15:02:55 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-10 15:03:26 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-10 15:04:52 [main] INFO  com.amazonapplication.testCases.DatadrivenTest - Amazon Registeration tried for 5 invalid users
+2025-03-10 15:10:31 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-10 15:10:36 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 15:12:48 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-10 15:12:54 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-10 15:13:25 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-10 15:13:50 [main] INFO  com.amazonapplication.testCases.DatadrivenTest - Amazon Registeration tried for 5 invalid users
+2025-03-10 15:21:59 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-10 15:22:04 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 15:23:56 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-10 15:23:57 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-10 15:24:29 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-10 15:26:34 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-10 15:26:38 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 15:28:33 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-10 15:28:41 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-10 15:29:19 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-10 15:29:45 [main] INFO  com.amazonapplication.testCases.DatadrivenTest - Amazon Registeration tried for 5 invalid users
+2025-03-10 15:33:30 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-10 15:33:35 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 15:35:28 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-10 15:35:35 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-10 15:36:02 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-10 15:36:28 [main] INFO  com.amazonapplication.testCases.DatadrivenTest - Amazon Registeration tried for 5 invalid users
+2025-03-10 15:38:17 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-10 15:38:21 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 15:38:50 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-10 15:38:56 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-10 15:39:26 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-10 15:41:15 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-10 15:41:19 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 15:43:18 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-10 15:43:24 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-10 15:45:15 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-10 15:45:20 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 15:47:17 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-10 15:47:24 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-10 15:47:56 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-10 15:49:24 [main] INFO  com.amazonapplication.testCases.DatadrivenTest - Amazon Registeration tried for 5 invalid users
+2025-03-10 15:50:47 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-10 15:50:54 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 15:52:37 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-10 15:52:45 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-10 15:53:16 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-10 15:54:58 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-10 15:55:02 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 15:55:25 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-10 15:55:31 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-10 15:56:01 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-10 15:57:26 [main] INFO  com.amazonapplication.testCases.DatadrivenTest - Amazon Registeration tried for 5 invalid users
+2025-03-10 15:58:51 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-10 15:58:54 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 15:59:20 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-10 15:59:33 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-10 16:00:06 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-10 16:00:32 [main] INFO  com.amazonapplication.testCases.DatadrivenTest - Amazon Registeration tried for 5 invalid users
+2025-03-10 16:07:31 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 16:08:16 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 16:08:31 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-10 16:12:48 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 16:13:42 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-10 16:13:46 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 16:23:54 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 16:37:50 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-10 16:37:54 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-10 16:39:16 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-10 16:39:25 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-10 16:39:51 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-10 16:40:16 [main] INFO  com.amazonapplication.testCases.DatadrivenTest - Amazon Registeration tried for 5 invalid users
+2025-03-11 13:34:27 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-11 13:34:33 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-11 13:34:50 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-11 13:35:05 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-11 13:36:18 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-11 13:36:22 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-11 13:37:07 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-11 13:37:15 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-11 13:37:55 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-11 13:38:20 [main] INFO  com.amazonapplication.testCases.DatadrivenTest - Amazon Registeration tried for 5 invalid users
+2025-03-11 16:19:36 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-11 16:19:41 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-11 16:21:10 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-11 16:21:17 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-11 16:21:47 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-11 16:22:12 [main] INFO  com.amazonapplication.testCases.DatadrivenTest - Amazon Registeration tried for 5 invalid users
+2025-03-11 17:00:17 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-11 17:00:22 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-11 17:00:37 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-11 17:00:43 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-11 17:01:24 [main] INFO  com.amazonapplication.testCases.LoginPageTest - User Login to Amazon
+2025-03-11 17:01:29 [main] INFO  com.amazonapplication.testCases.HomePageTest - Display Menu and Capture Screenshot
+2025-03-11 17:02:00 [main] INFO  com.amazonapplication.testCases.HomePageTest - Select Shop by Dell
+2025-03-11 17:02:10 [main] INFO  com.amazonapplication.testCases.LaptopPageTest - Display Laptops
+2025-03-11 17:02:36 [main] INFO  com.amazonapplication.testCases.ReadCustomerReviewTest - Write Review and embed to file
+2025-03-11 17:03:00 [main] INFO  com.amazonapplication.testCases.DatadrivenTest - Amazon Registeration tried for 5 invalid users

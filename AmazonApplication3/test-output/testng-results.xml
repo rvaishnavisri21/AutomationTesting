@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-11T17:01:06 IST" name="Suite" finished-at="2025-03-11T17:04:11 IST" duration-ms="184851">
+    <groups>
+    </groups>
+    <test started-at="2025-03-11T17:01:06 IST" name="Test1" finished-at="2025-03-11T17:01:29 IST" duration-ms="22536">
+      <class name="com.amazonapplication.testCases.LoginPageTest">
+        <test-method signature="login(java.lang.reflect.Method)[pri:0, instance:com.amazonapplication.testCases.LoginPageTest@6069db50]" started-at="2025-03-11T17:01:06 IST" name="login" finished-at="2025-03-11T17:01:29 IST" duration-ms="22508" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazonapplication.testCases.LoginPageTest.login(java.lang.reflect.Method) throws java.lang.InterruptedException,org.openqa.selenium.WebDriverException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.amazonapplication.testCases.LoginPageTest -->
+    </test> <!-- Test1 -->
+    <test started-at="2025-03-11T17:01:29 IST" name="Test2" finished-at="2025-03-11T17:02:10 IST" duration-ms="41097">
+      <class name="com.amazonapplication.testCases.HomePageTest">
+        <test-method signature="displayMenuAndCaptureScreenshot(java.lang.reflect.Method)[pri:0, instance:com.amazonapplication.testCases.HomePageTest@73a1e9a9]" started-at="2025-03-11T17:01:29 IST" name="displayMenuAndCaptureScreenshot" finished-at="2025-03-11T17:02:00 IST" duration-ms="31713" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazonapplication.testCases.HomePageTest.displayMenuAndCaptureScreenshot(java.lang.reflect.Method) throws java.lang.InterruptedException,org.openqa.selenium.WebDriverException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayMenuAndCaptureScreenshot -->
+        <test-method signature="selectShopByDell(java.lang.reflect.Method)[pri:0, instance:com.amazonapplication.testCases.HomePageTest@73a1e9a9]" started-at="2025-03-11T17:02:00 IST" name="selectShopByDell" finished-at="2025-03-11T17:02:10 IST" duration-ms="9379" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazonapplication.testCases.HomePageTest.selectShopByDell(java.lang.reflect.Method) throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectShopByDell -->
+      </class> <!-- com.amazonapplication.testCases.HomePageTest -->
+    </test> <!-- Test2 -->
+    <test started-at="2025-03-11T17:02:10 IST" name="Test3" finished-at="2025-03-11T17:02:36 IST" duration-ms="25709">
+      <class name="com.amazonapplication.testCases.LaptopPageTest">
+        <test-method signature="displayLaptops(java.lang.reflect.Method)[pri:0, instance:com.amazonapplication.testCases.LaptopPageTest@78691363]" started-at="2025-03-11T17:02:10 IST" name="displayLaptops" finished-at="2025-03-11T17:02:36 IST" duration-ms="25706" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazonapplication.testCases.LaptopPageTest.displayLaptops(java.lang.reflect.Method) throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayLaptops -->
+      </class> <!-- com.amazonapplication.testCases.LaptopPageTest -->
+    </test> <!-- Test3 -->
+    <test started-at="2025-03-11T17:02:36 IST" name="Test4" finished-at="2025-03-11T17:03:00 IST" duration-ms="24253">
+      <class name="com.amazonapplication.testCases.ReadCustomerReviewTest">
+        <test-method signature="WritetoFile(java.lang.reflect.Method)[pri:0, instance:com.amazonapplication.testCases.ReadCustomerReviewTest@765d7657]" started-at="2025-03-11T17:02:36 IST" name="WritetoFile" finished-at="2025-03-11T17:02:58 IST" duration-ms="22145" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazonapplication.testCases.ReadCustomerReviewTest.WritetoFile(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WritetoFile -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.amazonapplication.testCases.ReadCustomerReviewTest@765d7657]" started-at="2025-03-11T17:02:58 IST" name="afterTest" finished-at="2025-03-11T17:03:00 IST" duration-ms="2105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.amazonapplication.testCases.ReadCustomerReviewTest -->
+    </test> <!-- Test4 -->
+    <test started-at="2025-03-11T17:03:00 IST" name="Test5" finished-at="2025-03-11T17:04:11 IST" duration-ms="71122">
+      <class name="com.amazonapplication.testCases.DatadrivenTest">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:com.amazonapplication.testCases.DatadrivenTest@13c9d689]" started-at="2025-03-11T17:01:06 IST" name="setupReport" finished-at="2025-03-11T17:01:06 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method signature="datadriven(java.lang.reflect.Method)[pri:0, instance:com.amazonapplication.testCases.DatadrivenTest@13c9d689]" started-at="2025-03-11T17:03:00 IST" name="datadriven" finished-at="2025-03-11T17:04:11 IST" duration-ms="71119" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazonapplication.testCases.DatadrivenTest.datadriven(java.lang.reflect.Method) throws java.lang.InterruptedException,java.io.IOException,java.awt.AWTException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datadriven -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:com.amazonapplication.testCases.DatadrivenTest@13c9d689]" started-at="2025-03-11T17:04:11 IST" name="flushReport" finished-at="2025-03-11T17:04:11 IST" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- com.amazonapplication.testCases.DatadrivenTest -->
+    </test> <!-- Test5 -->
+  </suite> <!-- Suite -->
+</testng-results>
